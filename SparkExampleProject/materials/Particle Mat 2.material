@@ -1,0 +1,87 @@
+{
+  "modelName": "shader_code_asset_material_model",
+  "name": "Particle Mat 2",
+  "identifier": "shader_code_asset_material_model:136171-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "blendMode": "add",
+  "cullMode": "back",
+  "diffuseFactor": "0xffffffff",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": true,
+  "fragmentOutputCount": 1,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": false,
+  "readDepth": true,
+  "shader": "shader_interface_model:91963-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+  "transparency": 0.8,
+  "writeDepth": false,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true,
+  "children": [
+    {
+      "modelName": "composed_material_parameters_model",
+      "identifier": "composed_material_parameters_model:136173-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+      "children": [
+        {
+          "modelName": "composed_material_parameter_model",
+          "name": "posDataTexture",
+          "identifier": "composed_material_parameter_model:136175-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+          "isTextureIdentifierEnabled": false,
+          "type": "texture"
+        },
+        {
+          "modelName": "composed_material_parameter_model",
+          "name": "velocityDataTexture",
+          "identifier": "composed_material_parameter_model:136177-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+          "isTextureIdentifierEnabled": false,
+          "type": "texture"
+        },
+        {
+          "modelName": "composed_material_parameter_model",
+          "name": "lifeSpeedDataTexture",
+          "identifier": "composed_material_parameter_model:144125-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+          "isTextureIdentifierEnabled": false,
+          "type": "texture"
+        },
+        {
+          "modelName": "composed_material_parameter_model",
+          "name": "particleColorTexture",
+          "identifier": "composed_material_parameter_model:136181-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+          "isTextureIdentifierEnabled": false,
+          "type": "texture"
+        },
+        {
+          "modelName": "composed_material_parameter_model",
+          "name": "uvOffset",
+          "identifier": "composed_material_parameter_model:136183-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+          "isTextureIdentifierEnabled": false,
+          "rawValue": [
+            0.5,
+            0
+          ],
+          "type": "vec2"
+        },
+        {
+          "modelName": "composed_material_parameter_model",
+          "name": "particleSize",
+          "identifier": "composed_material_parameter_model:136185-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+          "isTextureIdentifierEnabled": false,
+          "rawValue": [
+            0.02,
+            0.02
+          ],
+          "type": "vec2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "k113-spawn-data-256",
+  "identifier": "texture:93018-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "951e1f8bca68ae6b8c73c436596f9b46",
+  "assetLocator": "textures/k113-spawn-data-256.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 256,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "951e1f8bca68ae6b8c73c436596f9b46",
+      "colorCount": 65095,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 15.986518710708552,
+      "pixelsHigh": 256,
+      "pixelsWide": 256
+    }
+  ]
+}

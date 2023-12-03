@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "initialLifeSeedData-256",
+  "identifier": "texture:93006-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "b42e5ba5b2889e58d6dac7fef31d0b4e",
+  "assetLocator": "textures/initialLifeSeedData-256.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 256,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "b42e5ba5b2889e58d6dac7fef31d0b4e",
+      "colorCount": 64268,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 15.960981188200975,
+      "pixelsHigh": 256,
+      "pixelsWide": 256
+    }
+  ]
+}

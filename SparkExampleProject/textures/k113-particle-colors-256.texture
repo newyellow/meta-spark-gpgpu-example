@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "k113-particle-colors-256",
+  "identifier": "texture:93014-fb26da5c-c77d-405c-94bd-8a64a7aaca7d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "208d6882ff253c8d50bf860e73e5c351",
+  "assetLocator": "textures/k113-particle-colors-256.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 256,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "208d6882ff253c8d50bf860e73e5c351",
+      "colorCount": 25126,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 14.197124856342981,
+      "pixelsHigh": 256,
+      "pixelsWide": 256
+    }
+  ]
+}
